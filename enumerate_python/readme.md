@@ -14,8 +14,6 @@ for month in months:
 	number += 1
 ```
 
-# Enumerate
-
 Here, we have the list of full month names, and then we keep a counter that we increment for each month in the list.
 
 ## Better way?
